@@ -1,0 +1,8 @@
+{
+  "name": "super-gulf",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kamogawa/super-gulf.git",
+  "author": "BEUMGOO <captain_kbg@naver.com>",
+  "license": "MIT"
+}
