@@ -4,5 +4,15 @@
   "main": "index.js",
   "repository": "https://github.com/kamogawa/super-gulf.git",
   "author": "BEUMGOO <captain_kbg@naver.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "dev": "gulp dev",
+    "build": "gulp build"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "@babel/core": "^7.8.4",
+    "@babel/preset-env": "^7.8.4",
+    "@babel/register": "^7.8.3"
+  }
 }
